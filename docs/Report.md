@@ -8,4 +8,6 @@
 ## 2. BACKGROUND
   - Building a used car price prediction project involves leveraging machine learning techniques to analyze various factors that influence the pricing of used cars.The project can be useful in several ways, benefiting various stakeholders in the automotive industry, consumers, and related sectors.
   - Research Questions:
-    - hbsd
+    - How accurately can machine learning models predict the prices of used cars based on various features such as make, model, mileage, and year of manufacture?
+    - Which features contribute the most to the prediction of used car prices, and how does their importance vary across different car models and makes?
+    - What recommendations can be made based on the model's outputs?
