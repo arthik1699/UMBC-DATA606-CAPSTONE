@@ -27,7 +27,7 @@ Description :
 
 4. What does dataset represent?
 
-  This dataset included Information about 28 brands of clean and used vehicles for sale in US. Twelve features were assembled for each car in the dataset.
+This dataset included Information about 28 brands of clean and used vehicles for sale in US. Twelve features were assembled for each car in the dataset.
 
 5. Data dictionary:
    
