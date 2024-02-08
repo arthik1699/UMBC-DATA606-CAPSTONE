@@ -11,3 +11,10 @@
     - How accurately can machine learning models predict the prices of used cars based on various features such as make, model, mileage, and year of manufacture?
     - Which features contribute the most to the prediction of used car prices, and how does their importance vary across different car models and makes?
     - What recommendations can be made based on the model's outputs?
+
+
+
+## 3. DATA
+Description : 
+
+1. Data Source : *[Kaggle](https://www.kaggle.com/datasets/doaaalsenani/usa-cers-dataset)*. :link:
