@@ -29,16 +29,20 @@ Description :
 This dataset included Information about 28 brands of clean and used vehicles for sale in US. Twelve features were assembled for each car in the dataset.
 
 5. Data dictionary:
-| Feature      | Type                         | Description           |
-|------------------|--------------------------------------|---------------------|
-| Price      |Integer                         |  The sale price of the vehicle in the ad          |
-| Years    | Integer                          |  The vehicle registration year           |
-| Brand      | String                          | The brand of the car           |
-| Model      | String                          | The model of the vehicle           |
-| Colour      | String                          | The colour of the vehcile           |
-| State/City      | String                          |  The location in which the car is being available for purchase          |
-| Mileage      | Float                          | Miles travelled by the vehcile           |
-| Vin      | String                          | The vehicle identification number is a collection of 17 characters (digits and capital letters)         |
-| Title Status      | String                          | This feature included binary classification, which are clean title vehicles and salvage insurance         |
-| Lot      | Integer                          | A lot number is an identification number assigned to a particular quantity            |
-| Condition      | String                          | Time           |
+| Feature          | Type            | Description                                                                                              |
+|------------------|-----------------|----------------------------------------------------------------------------------------------------------|
+| Price            |Integer          | The sale price of the vehicle in the ad                                                                  |
+| Years            | Integer         | The vehicle registration year                                                                            |
+| Brand            | String          | The brand of the car                                                                                     |
+| Model            | String          | The model of the vehicle                                                                                 |
+| Colour           | String          | The colour of the vehcile                                                                                |
+| State/City       | String          | The location in which the car is being available for purchase                                            |
+| Mileage          | Float           | Miles travelled by the vehcile                                                                           |
+| Vin              | String          | The vehicle identification number is a collection of 17 characters (digits and capital letters)          |
+| Title Status     | String          | This feature included binary classification, which are clean title vehicles and salvage insurance        |
+| Lot              | Integer         | A lot number is an identification number assigned to a particular quantity                               |
+| Condition        | String          | Time                                                                                                     |
+
+
+
+
