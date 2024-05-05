@@ -74,3 +74,10 @@ The below methodology has been used to build the Used Cars Price Prediction proj
 ![image](https://github.com/arthik1699/UMBC-DATA606-CAPSTONE/blob/main/docs/dv9.png)
 #### 5.10 Correlation matrix
 ![image](https://github.com/arthik1699/UMBC-DATA606-CAPSTONE/blob/main/docs/dv10.png)
+
+## 6. MODEL BUILDING
+
+- The dataset's price column serves as the target variable for constructing models. The remaining columns, including brand, model, manufacturing year, mileage, color, state, and country, are utilized to forecast the price of the car.
+- Utilizing machine learning algorithms, we can develop predictive models to estimate the price of the Used cars considering various factors like brand, model, manufactured year etc. 
+- Data preprocessing plays a crucial role in machine learning workflows, ensuring data compatibility with models. Standardization and Scaling is applied to numerical features, while encoding techniques handle categorical features.
+- The dataset is divided into training and testing sets using the train_test_split method. The model is then trained on the training data using the fit method. Predictions are made on the testing data using the predict method. Finally, evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared are calculated.
