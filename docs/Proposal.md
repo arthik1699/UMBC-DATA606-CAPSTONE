@@ -66,10 +66,10 @@ The below methodology has been used to build the Used Cars Price Prediction proj
 ![image](https://github.com/arthik1699/UMBC-DATA606-CAPSTONE/blob/main/docs/dv6.png)
 #### 5.7 Distribution of Last 5 Years Production Rate
 ![image](https://github.com/arthik1699/UMBC-DATA606-CAPSTONE/blob/main/docs/dv7.png)
-It is observed that 2019 has seen twice the production sales of cars when comapred to 2018. 2018 and 2017 almost had same rate of production of cars
+- It is observed that 2019 has seen twice the production sales of cars when comapred to 2018. 2018 and 2017 almost had same rate of production of cars
 #### 5.8 Distribution of Top brands by years
 ![image](https://github.com/arthik1699/UMBC-DATA606-CAPSTONE/blob/main/docs/dv8.png)
-Ford has the leading sales numbers compared to its competitors. In 2018, Ford and Nissan almost had same number of models rolling out.
+- Ford has the leading sales numbers compared to its competitors. In 2018, Ford and Nissan almost had same number of models rolling out.
 #### 5.9 Distribution of Price range of various models of the cars
 ![image](https://github.com/arthik1699/UMBC-DATA606-CAPSTONE/blob/main/docs/dv9.png)
 #### 5.10 Correlation matrix
