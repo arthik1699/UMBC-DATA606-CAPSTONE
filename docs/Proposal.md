@@ -47,3 +47,7 @@ Description :
 | Condition        | String          | Time                                                                                                     |
 
 ## 4. METHODOLOGY
+
+The below methodology has been used to build the Used Cars Price Prediction project.
+ ![image](https://github.com/arthik1699/UMBC-DATA606-CAPSTONE/blob/main/docs/pic1.png)
+ 
