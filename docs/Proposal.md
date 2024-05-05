@@ -81,3 +81,9 @@ The below methodology has been used to build the Used Cars Price Prediction proj
 - Utilizing machine learning algorithms, we can develop predictive models to estimate the price of the Used cars considering various factors like brand, model, manufactured year etc. 
 - Data preprocessing plays a crucial role in machine learning workflows, ensuring data compatibility with models. Standardization and Scaling is applied to numerical features, while encoding techniques handle categorical features.
 - The dataset is divided into training and testing sets using the train_test_split method. The model is then trained on the training data using the fit method. Predictions are made on the testing data using the predict method. Finally, evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared are calculated.
+
+- The Models used in the project are:
+  - **Linear Regression Model** :  The linear regression model utilizes a linear relationship between independent variables and the target variable to make predictions. The accuracy of the model was found to be 57%.
+  - **Random Forest Regression Model** : The random forest regression model utilizes an ensemble of decision trees to predict the target variable. The accuracy of the model was found to  be 75%.
+  - **XGBoost Regression Model** : The XGBoost regression model utilizes an ensemble of decision trees in a gradient boosting framework to predict the target variable. The accuracy of the model was found to be 73%.
+![image](https://github.com/arthik1699/UMBC-DATA606-CAPSTONE/assets/112587413/c458a821-e631-4fef-8530-af5a67d1f999)
