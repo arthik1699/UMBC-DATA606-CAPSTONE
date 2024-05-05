@@ -75,6 +75,8 @@ The below methodology has been used to build the Used Cars Price Prediction proj
 #### 5.10 Correlation matrix
 ![image](https://github.com/arthik1699/UMBC-DATA606-CAPSTONE/blob/main/docs/dv10.png)
 
+
+
 ## 6. MODEL BUILDING
 
 - The dataset's price column serves as the target variable for constructing models. The remaining columns, including brand, model, manufacturing year, mileage, color, state, and country, are utilized to forecast the price of the car.
@@ -86,4 +88,10 @@ The below methodology has been used to build the Used Cars Price Prediction proj
   - **Linear Regression Model** :  The linear regression model utilizes a linear relationship between independent variables and the target variable to make predictions. The accuracy of the model was found to be 57%.
   - **Random Forest Regression Model** : The random forest regression model utilizes an ensemble of decision trees to predict the target variable. The accuracy of the model was found to  be 75%.
   - **XGBoost Regression Model** : The XGBoost regression model utilizes an ensemble of decision trees in a gradient boosting framework to predict the target variable. The accuracy of the model was found to be 73%.
-![image](https://github.com/arthik1699/UMBC-DATA606-CAPSTONE/assets/112587413/c458a821-e631-4fef-8530-af5a67d1f999)
+
+## 7. DEPLOYMENT USING STREAMLIT
+
+Streamlit is an open-source Python library that enables you to create interactive web applications for machine learning, data science, and other tasks with minimal effort. It simplifies the process of building data-driven web apps by allowing you to write Python scripts that automatically transform into interactive web applications.
+
+![image](https://github.com/arthik1699/UMBC-DATA606-CAPSTONE/blob/main/docs/output.png)
+
