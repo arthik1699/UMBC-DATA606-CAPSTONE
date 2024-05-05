@@ -46,3 +46,4 @@ Description :
 | Lot              | Integer         | A lot number is an identification number assigned to a particular quantity                               |
 | Condition        | String          | Time                                                                                                     |
 
+## 4. METHODOLOGY
