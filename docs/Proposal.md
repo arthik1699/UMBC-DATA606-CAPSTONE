@@ -95,3 +95,11 @@ Streamlit is an open-source Python library that enables you to create interactiv
 
 ![image](https://github.com/arthik1699/UMBC-DATA606-CAPSTONE/blob/main/docs/output.png)
 
+## 8. CONCLUSION
+
+In conclusion, the used car price prediction project leverages machine learning techniques to forecast the price of pre-owned vehicles based on various factors such as make, model, year, mileage, color, location, and title status. By collecting and analyzing historical data on used car sales, we can train machine learning models to recognize patterns and relationships within the data, enabling them to make accurate predictions on unseen instances.
+
+Throughout the project, I utilized a variety of regression techniques such as Linear Regression, Random Forest Regression, XGBoost Regression, K-Neighbors Regression to model the relationship between input features and the target variable (i.e., the price of the used car). After training our models using a labeled dataset, we evaluated their performance using metrics such as Mean Squared Error (MSE), R-squared (R2), and Root Mean Squared Error (RMSE) to ensure their reliability and accuracy.
+To facilitate user interaction and enhance accessibility, we deployed our prediction model using Streamlit, a powerful Python library for building interactive web applications. Streamlit allowed us to create an intuitive and user-friendly interface where users can input details about the car they are interested in, and receive instant predictions on its price based on our trained machine learning models.
+
+In summary, the used car price prediction project demonstrates the practical application of machine learning in the automotive industry, providing valuable insights for both buyers and sellers in making informed decisions about used car transactions. Additionally, the integration of Streamlit enables seamless deployment and accessibility of the prediction model, further enhancing its utility and usability for a wide range of users.
