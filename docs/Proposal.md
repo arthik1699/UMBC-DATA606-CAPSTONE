@@ -103,3 +103,6 @@ Throughout the project, I utilized a variety of regression techniques such as Li
 To facilitate user interaction and enhance accessibility, we deployed our prediction model using Streamlit, a powerful Python library for building interactive web applications. Streamlit allowed us to create an intuitive and user-friendly interface where users can input details about the car they are interested in, and receive instant predictions on its price based on our trained machine learning models.
 
 In summary, the used car price prediction project demonstrates the practical application of machine learning in the automotive industry, providing valuable insights for both buyers and sellers in making informed decisions about used car transactions. Additionally, the integration of Streamlit enables seamless deployment and accessibility of the prediction model, further enhancing its utility and usability for a wide range of users.
+
+## 9. REFERENCE
+- 
