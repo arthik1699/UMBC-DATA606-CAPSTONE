@@ -104,5 +104,4 @@ To facilitate user interaction and enhance accessibility, we deployed our predic
 
 In summary, the used car price prediction project demonstrates the practical application of machine learning in the automotive industry, providing valuable insights for both buyers and sellers in making informed decisions about used car transactions. Additionally, the integration of Streamlit enables seamless deployment and accessibility of the prediction model, further enhancing its utility and usability for a wide range of users.
 
-## 9. REFERENCE
-- 
+
