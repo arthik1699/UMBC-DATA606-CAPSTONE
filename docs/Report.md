@@ -1,9 +1,10 @@
-# 1. PROJECT TITLE - USED CARS PRICE PREDICTION
+# 1. PROJECT TITLE - USED CARS PRICE PREDICTION [ARTHI KOMMA - SPRING 2024]
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang - SPRING 2024 Semester
 - Author: Arthi Komma
 - GitHub : https://github.com/arthik1699
 - Linkedin : www.linkedin.com/in/arthi-komma-07874b1b9
 - Presentation : https://github.com/arthik1699/UMBC-DATA606-CAPSTONE/blob/main/docs/USED%20CARS%20PRICE%20PREDICTION.pptx
+- Youtube Video : 
 
 
 ## 2. BACKGROUND
