@@ -36,8 +36,8 @@ Description :
 | Feature          | Type            | Description                                                                                              |
 |------------------|-----------------|----------------------------------------------------------------------------------------------------------|
 | Price            |Integer          | The sale price of the vehicle in the ad                                                                  |
-| Years            | Integer         | The vehicle registration year                                                                            |
-| Brand            | String          | The brand of the car                                                                                     |
+| Year             | Integer         | The vehicle registration year                                                                            |
+| Make             | String          | The brand of the car                                                                                     |
 | Model            | String          | The model of the vehicle                                                                                 |
 | Colour           | String          | The colour of the vehcile                                                                                |
 | State/City       | String          | The location in which the car is being available for purchase                                            |
