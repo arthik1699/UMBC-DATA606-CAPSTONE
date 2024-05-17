@@ -4,7 +4,7 @@
 - GitHub : https://github.com/arthik1699
 - Linkedin : www.linkedin.com/in/arthi-komma-07874b1b9
 - Presentation : https://github.com/arthik1699/UMBC-DATA606-CAPSTONE/blob/main/docs/USED%20CARS%20PRICE%20PREDICTION.pptx
-- Youtube Video : 
+- Youtube Video : https://youtu.be/98DgP2k8yoE
 
 
 ## 2. BACKGROUND
