@@ -9,7 +9,7 @@ from joblib import load
 
 
 
-st.image("./car1.png",width=600, use_column_width='always')
+st.image("https://github.com/arthik1699/UMBC-DATA606-CAPSTONE/blob/main/app/car1.png",width=600, use_column_width='always')
 st.markdown("<h2 style='text-align:center;'>Used Cars Price Predicton</h2>",unsafe_allow_html=True)
    
 
