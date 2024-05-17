@@ -89,7 +89,7 @@ def main():
     
 
     ## Data Transformation
-    df = pd.read_csv("./USA_cars_datasets.csv")
+    df = pd.read_csv("https://github.com/arthik1699/UMBC-DATA606-CAPSTONE/blob/main/app/USA_cars_datasets.csv")
     df = df.drop(['Unnamed: 0','vin','lot','condition'], axis = 1)
     
 
